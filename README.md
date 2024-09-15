@@ -9,7 +9,7 @@ Adjustable Speech Rate: Fine-tune the narration speed to your preference.
 Effortless Conversion: Just upload your PDF, and VoiceBook handles the rest.
 How to Use:
 Clone the Repository:
-git clone https://github.com/yourusername/VoiceBook.git
+git clone [https://github.com/yourusername/VoiceBook.git](https://github.com/vineetvedant/VoiceBook.git)
 cd VoiceBook
 
 Install Dependencies:
